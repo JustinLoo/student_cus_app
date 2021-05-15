@@ -84,9 +84,9 @@
 
               <?php // else if the user is not loggin in then show this ?>
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="index.php">Welcome Guest!</a></li>
-                    <li><a href="index.php">Login</a></li>
-                    <li><a href="admin/register_admin.php">Register</a></li>
+                    <li><a href="/dashboard/working-files/student_app/index.php">Welcome Guest!</a></li>
+                    <li><a href="/dashboard/working-files/student_app/index.php">Login</a></l>
+                    <li><a href="/dashboard/working-files/student_app/admin/register_admin.php">Register</a></li>
                 </ul>
      
 
